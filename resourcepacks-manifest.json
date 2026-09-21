@@ -1,0 +1,219 @@
+﻿{
+    "schema":  1,
+    "release":  "2026.09.21.1",
+    "minecraft":  "26.2",
+    "repository":  "bengessert-ui/godchallengePUPLIC",
+    "generatedAt":  "2026-09-21T13:03:06Z",
+    "packs":  [
+                  {
+                      "name":  "godchallenge-lobby.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-lobby.zip",
+                      "sha1":  "20251CF8A11F0A69BAFE8D931E6F937D1CE1F526",
+                      "bytes":  4709698
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting.zip",
+                      "sha1":  "2E4EAE5D2639F8D5366B793665DBFC201F9E9879",
+                      "bytes":  3093
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-2.zip",
+                      "sha1":  "2A41CCAF83DC1A0AE34804EF6A45D3778D1C9609",
+                      "bytes":  3087
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-3.zip",
+                      "sha1":  "3ED977927F2E6D4DE8D599CF9B40CFAA54C48BAA",
+                      "bytes":  3047
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-hotbar.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-hotbar.zip",
+                      "sha1":  "EAB2650D5D4257D314AF9C32D95276BD4D5C596A",
+                      "bytes":  8611
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-hotbar-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-hotbar-2.zip",
+                      "sha1":  "C973708F89F0E85AF4D670222243A8C39AB4B5E1",
+                      "bytes":  8355
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-hotbar-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-hotbar-3.zip",
+                      "sha1":  "D33076609BC3551EE7D797699C767E11280194C5",
+                      "bytes":  8196
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-inventory.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-inventory.zip",
+                      "sha1":  "B5CE1BA07BCCF1704C36CEE92C8A1F0FBF991008",
+                      "bytes":  3352
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-inventory-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-inventory-2.zip",
+                      "sha1":  "70D19A17626A81C1EAF8FB77EB49D6868EAC97E0",
+                      "bytes":  3134
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-inventory-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-inventory-3.zip",
+                      "sha1":  "14276EC5505656D26A34D052CC5FE7CB5F3DCA3C",
+                      "bytes":  3078
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-inventory-hotbar.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-inventory-hotbar.zip",
+                      "sha1":  "F63B70E0AFBDEDA2D14FAC6B5C94188E2E3D5643",
+                      "bytes":  8745
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-inventory-hotbar-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-inventory-hotbar-2.zip",
+                      "sha1":  "6546908C2276FC28CC7CA0B44F1E05468B33278E",
+                      "bytes":  8483
+                  },
+                  {
+                      "name":  "godchallenge-split-crafting-inventory-hotbar-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-crafting-inventory-hotbar-3.zip",
+                      "sha1":  "F1DFBD9D26A4DE45AFD66B666185479BE07E837D",
+                      "bytes":  8508
+                  },
+                  {
+                      "name":  "godchallenge-split-health.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-health.zip",
+                      "sha1":  "B9A15B75C3CCBE3F503BFA0489EC51170746F7A2",
+                      "bytes":  17844
+                  },
+                  {
+                      "name":  "godchallenge-split-health-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-health-2.zip",
+                      "sha1":  "B9A15B75C3CCBE3F503BFA0489EC51170746F7A2",
+                      "bytes":  17844
+                  },
+                  {
+                      "name":  "godchallenge-split-health-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-health-3.zip",
+                      "sha1":  "B9A15B75C3CCBE3F503BFA0489EC51170746F7A2",
+                      "bytes":  17844
+                  },
+                  {
+                      "name":  "godchallenge-split-hotbar.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-hotbar.zip",
+                      "sha1":  "14B0FDF8BBDC270E180605C279A616AE131034BA",
+                      "bytes":  7169
+                  },
+                  {
+                      "name":  "godchallenge-split-hotbar-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-hotbar-2.zip",
+                      "sha1":  "CD128BEF0CBA55270D9EE2E27898FBC6B8794465",
+                      "bytes":  7076
+                  },
+                  {
+                      "name":  "godchallenge-split-hotbar-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-hotbar-3.zip",
+                      "sha1":  "B0B9A042CD75CD673B822C48C4E33856D374AD54",
+                      "bytes":  7031
+                  },
+                  {
+                      "name":  "godchallenge-split-hunger.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-hunger.zip",
+                      "sha1":  "095A06841D3978829E4EF0FE21DD49440E8F81EE",
+                      "bytes":  2184
+                  },
+                  {
+                      "name":  "godchallenge-split-hunger-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-hunger-2.zip",
+                      "sha1":  "095A06841D3978829E4EF0FE21DD49440E8F81EE",
+                      "bytes":  2184
+                  },
+                  {
+                      "name":  "godchallenge-split-hunger-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-hunger-3.zip",
+                      "sha1":  "095A06841D3978829E4EF0FE21DD49440E8F81EE",
+                      "bytes":  2184
+                  },
+                  {
+                      "name":  "godchallenge-split-inventory.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-inventory.zip",
+                      "sha1":  "C1186BD4886A1D842CA61AFE8A5A51B4DF84EC56",
+                      "bytes":  1998
+                  },
+                  {
+                      "name":  "godchallenge-split-inventory-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-inventory-2.zip",
+                      "sha1":  "E6FE1404A2B7D10D941188E5BD13129BCF70FBF0",
+                      "bytes":  1708
+                  },
+                  {
+                      "name":  "godchallenge-split-inventory-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-inventory-3.zip",
+                      "sha1":  "B5255A6CF82F686879EA64BA6FDABE8273560061",
+                      "bytes":  1656
+                  },
+                  {
+                      "name":  "godchallenge-split-inventory-hotbar.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-inventory-hotbar.zip",
+                      "sha1":  "E4A6B1FE0D1261EF92FC1222167A680E41A69DF4",
+                      "bytes":  7355
+                  },
+                  {
+                      "name":  "godchallenge-split-inventory-hotbar-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-inventory-hotbar-2.zip",
+                      "sha1":  "1C12407C880A5AD6CD36FDB3CFC3D5B649C7AE30",
+                      "bytes":  7163
+                  },
+                  {
+                      "name":  "godchallenge-split-inventory-hotbar-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-inventory-hotbar-3.zip",
+                      "sha1":  "BA863C153C9F54BC1F479CD8BCD384FD86B51A2A",
+                      "bytes":  7143
+                  },
+                  {
+                      "name":  "godchallenge-split-item-loot.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-item-loot.zip",
+                      "sha1":  "2F2D2ACA8D0198B56768AF7243D9B153B1C9B394",
+                      "bytes":  1257
+                  },
+                  {
+                      "name":  "godchallenge-split-item-loot-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-item-loot-2.zip",
+                      "sha1":  "A10AE47F4DADCA1D7B26F6B87BE273457CC7FC48",
+                      "bytes":  1186
+                  },
+                  {
+                      "name":  "godchallenge-split-item-loot-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-item-loot-3.zip",
+                      "sha1":  "4DBA5AC2817C9BD55C0BC564AA3BB8375A513A9F",
+                      "bytes":  1307
+                  },
+                  {
+                      "name":  "godchallenge-split-xp.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-xp.zip",
+                      "sha1":  "4B91D35F7A2F1E3CB5BFEA797DB84B7AABCCF15E",
+                      "bytes":  2202
+                  },
+                  {
+                      "name":  "godchallenge-split-xp-2.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-xp-2.zip",
+                      "sha1":  "3C8C1DCA5BEE6203C1C9B0A26F3BE63E15161870",
+                      "bytes":  2021
+                  },
+                  {
+                      "name":  "godchallenge-split-xp-3.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-split-xp-3.zip",
+                      "sha1":  "8B03C41E0755777B6AA7462A211AE5B250E64011",
+                      "bytes":  2113
+                  },
+                  {
+                      "name":  "godchallenge-tab.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-tab.zip",
+                      "sha1":  "DE8DB2D5D02F4670FECE6F01013B3BFD8BD8A720",
+                      "bytes":  77291
+                  }
+              ]
+}
