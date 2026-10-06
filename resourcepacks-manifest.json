@@ -1,10 +1,16 @@
 ﻿{
     "schema":  1,
-    "release":  "2026.09.21.1",
+    "release":  "2026.10.06.1",
     "minecraft":  "26.2",
     "repository":  "bengessert-ui/godchallengePUPLIC",
-    "generatedAt":  "2026-09-21T13:03:06Z",
+    "generatedAt":  "2026-10-06T12:47:32Z",
     "packs":  [
+                  {
+                      "name":  "godchallenge-custom-mobs.zip",
+                      "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-custom-mobs.zip",
+                      "sha1":  "5402EE97439BF8E6E263B231C770D6C0BA48BB48",
+                      "bytes":  1126
+                  },
                   {
                       "name":  "godchallenge-lobby.zip",
                       "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-lobby.zip",
