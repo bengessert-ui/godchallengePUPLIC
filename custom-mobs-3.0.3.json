@@ -1,0 +1,13 @@
+{
+    "version":  "3.0.3",
+    "url":  "https://raw.githubusercontent.com/bengessert-ui/godchallengePUPLIC/main/godchallenge-custom-mobs-3.0.3.zip",
+    "sha1":  "04CA0C0698EE2A41FEC3241F5E9E7483C4A0FD92",
+    "bytes":  4085407,
+    "minecraft":  "26.2",
+    "modelParts":  46,
+    "creatures":  [
+                      "rune_colossus",
+                      "ember_mantis",
+                      "rift_wraith"
+                  ]
+}
